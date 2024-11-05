@@ -1,0 +1,5 @@
+C:/Users/mljas/Documents/sistema micro/ELAT73A-LAB02/CubeMxTest/build/RelWithDebInfo/CMakeFiles/CubeMxTest.dir
+C:/Users/mljas/Documents/sistema micro/ELAT73A-LAB02/CubeMxTest/build/RelWithDebInfo/CMakeFiles/edit_cache.dir
+C:/Users/mljas/Documents/sistema micro/ELAT73A-LAB02/CubeMxTest/build/RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+C:/Users/mljas/Documents/sistema micro/ELAT73A-LAB02/CubeMxTest/build/RelWithDebInfo/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/mljas/Documents/sistema micro/ELAT73A-LAB02/CubeMxTest/build/RelWithDebInfo/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
